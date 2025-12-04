@@ -1,2 +1,3 @@
 Labfiles/02-build-ai-agent/Python/.env
 ../ai-agents/labenv/
+*__pycache__/
